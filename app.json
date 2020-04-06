@@ -1,0 +1,7 @@
+{
+  "name": "cat-community-server",
+  "description": "cat-community-server",
+  "addons": [
+    "cleardb:ignite"
+  ]
+}
